@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bot-chat/static/css/main.e1051049.css",
+    "main.js": "/bot-chat/static/js/main.b9b1d5c5.js",
+    "static/media/69.jpg": "/bot-chat/static/media/69.5cb59857ced0bd47b9ba.jpg",
+    "static/media/bot.webp": "/bot-chat/static/media/bot.d5fa895ad530b2ec5a12.webp",
+    "index.html": "/bot-chat/index.html",
+    "main.e1051049.css.map": "/bot-chat/static/css/main.e1051049.css.map",
+    "main.b9b1d5c5.js.map": "/bot-chat/static/js/main.b9b1d5c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1051049.css",
+    "static/js/main.b9b1d5c5.js"
+  ]
+}
